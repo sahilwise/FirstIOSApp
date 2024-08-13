@@ -14,9 +14,10 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("""
-                    Hello, This is Sahil
+                    Hello, This is Sahil.
                     This is my first app.
-                    This is my First Commit
+                    This is my First Commit.
+                    Doing another commit.
                  
 """)
         }
